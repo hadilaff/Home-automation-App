@@ -14,3 +14,7 @@ Design and simulate an IoT device for a smart home, using the MQTT protocol for 
 This is the link of wokwi project simulation: https://wokwi.com/projects/389532735027299329
 
 Our system is controlled by two applications: a Python desktop application and a Flutter mobile application.
+
+# Flutter mobile App:
+
+![image](https://github.com/hadilaff/Home-automation-App/assets/60358423/a3c47235-5ea2-4efe-9a3c-4e0cc3657fd8)
